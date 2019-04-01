@@ -1,0 +1,187 @@
+[{
+  "type": "music_lucy",
+  "message0": "Lucy play %1",
+  "args0": [
+    {
+      "type": "field_dropdown",
+      "name": "notes",
+      "options": [
+        [
+          "A",
+          "noteA"
+        ],
+        [
+          "B",
+          "noteB"
+        ],
+        [
+          "C",
+          "noteC"
+        ],
+        [
+          "D",
+          "noteD"
+        ],
+        [
+          "E",
+          "noteE"
+        ],
+        [
+          "Rest",
+          "rest"
+        ]
+      ]
+    }
+  ],
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 300,
+  "tooltip": "",
+  "helpUrl": ""
+},
+{
+  "type": "music_geoff",
+  "message0": "Geoff play %1",
+  "args0": [
+    {
+      "type": "field_dropdown",
+      "name": "notes",
+      "options": [
+        [
+          "A",
+          "noteA"
+        ],
+        [
+          "B",
+          "noteB"
+        ],
+        [
+          "C",
+          "noteC"
+        ],
+        [
+          "D",
+          "noteD"
+        ],
+        [
+          "E",
+          "noteE"
+        ],
+        [
+          "Rest",
+          "rest"
+        ]
+      ]
+    }
+  ],
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 195,
+  "tooltip": "",
+  "helpUrl": ""
+},
+{
+  "type": "music_freddie",
+  "message0": "Freddie play %1",
+  "args0": [
+    {
+      "type": "field_dropdown",
+      "name": "notes",
+      "options": [
+        [
+          "A",
+          "noteA"
+        ],
+        [
+          "B",
+          "noteB"
+        ],
+        [
+          "C",
+          "noteC"
+        ],
+        [
+          "D",
+          "noteD"
+        ],
+        [
+          "E",
+          "noteE"
+        ],
+        [
+          "Rest",
+          "rest"
+        ]
+      ]
+    }
+  ],
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 105,
+  "tooltip": "",
+  "helpUrl": ""
+},
+{
+  "type": "loops_repeat",
+  "message0": "Repeat %1 times %2 %3",
+  "args0": [
+    {
+      "type": "field_dropdown",
+      "name": "repeat",
+      "options": [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "4",
+          "4"
+        ],
+        [
+          "5",
+          "5"
+        ],
+        [
+          "6",
+          "6"
+        ],
+        [
+          "7",
+          "7"
+        ],
+        [
+          "8",
+          "8"
+        ],
+        [
+          "9",
+          "9"
+        ],
+        [
+          "10",
+          "10"
+        ]
+      ]
+    },
+    {
+      "type": "input_dummy"
+    },
+    {
+      "type": "input_statement",
+      "name": "NAME"
+    }
+  ],
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 15,
+  "tooltip": "",
+  "helpUrl": ""
+}]

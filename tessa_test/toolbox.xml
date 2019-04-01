@@ -1,0 +1,14 @@
+<xml xmlns="http://www.w3.org/1999/xhtml" id="toolbox" style="display: none;">
+  <block type="music_lucy">
+    <field name="notes">noteA</field>
+  </block>
+  <block type="music_geoff">
+    <field name="notes">noteA</field>
+  </block>
+  <block type="music_freddie">
+    <field name="notes">noteA</field>
+  </block>
+  <block type="loops_repeat">
+    <field name="repeat">1</field>
+  </block>
+</xml>
