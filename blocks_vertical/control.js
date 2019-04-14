@@ -242,7 +242,7 @@ Blockly.Blocks['control_repeat'] = {
           "previousStatement": null,
           "nextStatement": null,
           "category": Blockly.Categories.control,
-          "colour": "#ffab19",
+          "colour": "#F3B476",
     });
   }
 };

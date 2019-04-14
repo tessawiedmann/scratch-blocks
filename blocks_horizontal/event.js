@@ -38,22 +38,12 @@ Blockly.Blocks['event_whenflagclicked'] = {
   init: function() {
     this.jsonInit({
       "id": "event_whenflagclicked",
-      "message0": "%1",
-      "args0": [
-        {
-          "type": "field_image",
-          "src": Blockly.mainWorkspace.options.pathToMedia + "icons/event_whenflagclicked.svg",
-          "width": 40,
-          "height": 40,
-          "alt": "When green flag clicked",
-          "flip_rtl": true
-        }
-      ],
+      "message0": "When RUN clicked",
       "inputsInline": true,
       "nextStatement": null,
       "category": Blockly.Categories.event,
-      "colour": Blockly.Colours.event.primary,
-      "colourSecondary": Blockly.Colours.event.secondary,
+      "colour": '#8A70CE',
+      "colourSecondary": '#625091',
       "colourTertiary": Blockly.Colours.event.tertiary
     });
   }
