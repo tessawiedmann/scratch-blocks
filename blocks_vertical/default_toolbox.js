@@ -34,5 +34,6 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
     '<block type="control_geoff" id="control_geoff"></block>' +
     '<block type="control_freddie" id="control_freddie"></block>' +
     '<block type="control_repeat" id="control_repeat"></block>' +
+    '<block type="event_whenflagclicked" id="event_whenflagclicked"></block>' +
   '</category>' +
   '</xml>';
