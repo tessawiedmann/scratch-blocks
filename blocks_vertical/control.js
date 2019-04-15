@@ -40,23 +40,23 @@ Blockly.Blocks['control_lucy'] = {
         "name": "notes",
         "options": [
           [
-            "A",
+            "C",
             "noteA"
           ],
           [
-            "B",
+            "D",
             "noteB"
           ],
           [
-            "C",
+            "E",
             "noteC"
           ],
           [
-            "D",
+            "F",
             "noteD"
           ],
           [
-            "E",
+            "G",
             "noteE"
           ],
           [
@@ -89,23 +89,23 @@ Blockly.Blocks['control_geoff'] = {
         "name": "notes",
         "options": [
           [
-            "A",
+            "C",
             "noteA"
           ],
           [
-            "B",
+            "D",
             "noteB"
           ],
           [
-            "C",
+            "E",
             "noteC"
           ],
           [
-            "D",
+            "F",
             "noteD"
           ],
           [
-            "E",
+            "G",
             "noteE"
           ],
           [
@@ -139,23 +139,23 @@ Blockly.Blocks['control_freddie'] = {
           "name": "notes",
           "options": [
             [
-              "A",
+              "C",
               "noteA"
             ],
             [
-              "B",
+              "D",
               "noteB"
             ],
             [
-              "C",
+              "E",
               "noteC"
             ],
             [
-              "D",
+              "F",
               "noteD"
             ],
             [
-              "E",
+              "G",
               "noteE"
             ],
             [
